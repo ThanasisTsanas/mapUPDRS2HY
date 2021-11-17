@@ -49,5 +49,3 @@ This function provides a convenient approach to infer H&Y from UPDRS.
 %    Parkinsonism and Related Disorders, Vol. 18 (5), pp. 697-699, 2012 
 % ********************************************************************
 %
-% For any question, to report bugs, or just to say this was useful, email
-% tsanasthanasis@gmail.com
